@@ -16,3 +16,25 @@
  *= require_self
  */
 
+.navbar-header img {
+    position: relative;
+    left: 25%;
+    width: 75%;
+}
+
+.calendar {
+    margin-top: 40px;
+}
+
+.fc-unthemed .fc-today {
+    background-color: #DCFAFC;
+}
+
+.footer123 {
+    text-align: center;
+    position: relative;
+    left: 40%;
+}
+.glyphicon-heart {
+    color: red;
+}
