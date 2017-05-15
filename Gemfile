@@ -20,11 +20,11 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'better_errors'
   gem 'rails_layout'
+  gem 'web-console'
 end
 
 group :production do
     gem 'pg'
-    gem 'web-console'
     gem 'listen', '~> 3.0.5'
     gem 'spring'
     gem 'spring-watcher-listen', '~> 2.0.0'
